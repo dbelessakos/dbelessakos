@@ -1,8 +1,11 @@
 <h1>Hi, I'm Dimitri! <br/><a href="https://github.com/dbelessakos">Programmer</a>, <a href="https://www.linkedin.com/in/dab5500/">Junior Cybersecurity Professional</a>
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Full Stack Web App (React, Next.JS, Tailwind.css, and Supabase (LinkTree Clone)</b>
+- <b>Full Stack Web App (React, Next.JS, Tailwind.css, and Supabase) (LinkTree Clone)</b>
   - [Post Graduation Project](https://github.com/dbelessakos/LinkTreeClone)
+ 
+- <b>Database Managment Systems Project (SQL, Python, Flask) (Airline Ticketing System)</b>
+  - [Database Final Project](https://github.com/dbelessakos/dabaseProject)
  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
