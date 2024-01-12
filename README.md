@@ -2,7 +2,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web App (React, Next.JS, Tailwind.css, and Supabase (LinkTree Clone)</b>
-  - [Post Graduation Project]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/dbelessakos/LinkTreeClone))
+  - [Post Graduation Project](https://github.com/dbelessakos/LinkTreeClone)
  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
