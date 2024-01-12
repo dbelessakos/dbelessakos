@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dimitri! <br/><a href="https://github.com/dbelessakos">Programmer</a>, <a href="https://www.linkedin.com/in/dab5500/">Junior Cybersecurity Professional</a>
+<h1>Hi, I'm Dimitri! <br/><a href="(https://github.com/dbelessakos?tab=repositories)">Programmer</a>, <a href="https://www.linkedin.com/in/dab5500/">Junior Cybersecurity Professional</a>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web App (React, Next.JS, Tailwind.css, and Supabase) (LinkTree Clone)</b>
