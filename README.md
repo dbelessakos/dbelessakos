@@ -5,7 +5,7 @@
   - [Post Graduation Project](https://github.com/dbelessakos/LinkTreeClone)
  
 - <b>Database Managment Systems Project (SQL, Python, Flask) (Airline Ticketing System)</b>
-  - [Database Final Project](https://github.com/dbelessakos/dabaseProject)
+  - [Database Final Project](https://github.com/dbelessakos/databaseProject)
  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
