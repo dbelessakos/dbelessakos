@@ -10,7 +10,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - 🔭 I’m currently working on completing the CompTIA Security+ Certification and developing my skills through "Try Hack Me" and "Hack the Box".
--   - [Microsft Azure SIEM Baasic Project](https://github.com/dbelessakos/AzureSIEM-)
+-   - [Microsft Azure SIEM Basic Project](https://github.com/dbelessakos/AzureSIEM-)
 
 <h2> 🤳 Connect with me:</h2>
 
