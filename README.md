@@ -2,7 +2,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web App (React, Next.JS, Tailwind.css, and Supabase) (LinkTree Clone)</b>
-  - [Post Graduation Project](https://github.com/dbelessakos/LinkTreeClone)
+  - [Full-Stack tutorial Project](https://github.com/dbelessakos/LinkTreeClone)
  
 - <b>Database Managment Systems Project (SQL, Python, Flask) (Airline Ticketing System)</b>
   - [Database Final Project](https://github.com/dbelessakos/databaseProject)
